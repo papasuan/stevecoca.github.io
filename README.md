@@ -9,8 +9,8 @@
 
 任务完成度：
 
-|任务|进度|
-|---|---|
-|task1|![](http://progressed.io/bar/0)|
-|task2|![](http://progressed.io/bar/70)|
-|task3|![](http://progressed.io/bar/0)|
+|任务|进度|是否提交|
+|---|---|---|
+|task1|![](http://progressed.io/bar/0)|否
+|task2|![](http://progressed.io/bar/70)|否
+|task3|![](http://progressed.io/bar/90)|否
