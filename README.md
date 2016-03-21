@@ -16,4 +16,4 @@
 |task1_3|![](http://progressed.io/bar/90)|否|
 |task1_4|![](http://progressed.io/bar/100)|否|
 |task1_5|![](http://progressed.io/bar/80)|否|
-|task1_6|![](http://progressed.io/bar/0)|否|
+|task1_6|![](http://progressed.io/bar/70)|否|
